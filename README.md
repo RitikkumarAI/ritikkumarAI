@@ -142,17 +142,25 @@
 ## 🎯 Expertise Areas
 
 <details open>
+
 <table>
-  <tr>
-  <td>
-<td>💻 <strong>Development Environment</strong></td>
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-00ffff?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
-    <img src="https://img.shields.io/badge/Git-00ffff?style=for-the-badge&logo=git&logoColor=black" />
-    <img src="https://img.shields.io/badge/GitHub-00ffff?style=for-the-badge&logo=github&logoColor=black" />
-    <img src="https://img.shields.io/badge/Docker-00ffff?style=for-the-badge&logo=docker&logoColor=black" />
-    <img src="https://images.prismic.io/oxylabs-web/Z_0ZvuvxEdbNPBTc_n8nlogo.png?auto=format,compress" width="100" height="40"/>
-  </td>
-    </tr>
+<tr>
+<td width="260"><strong>💻 Development Environment</strong></td>
+
+<td>
+
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+
+</td>
+</tr>
   <tr>
     <td>💻 <strong>Frontend Development</strong></td>
     <td>
