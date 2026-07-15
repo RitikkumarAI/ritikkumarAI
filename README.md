@@ -22,7 +22,6 @@
 
 <img src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-## 👨‍💻 About Me
 
 - 🚀 **Hi, I'm Ritik Kumar**, an **AI Engineer**, **Technology Entrepreneur**, and **Founder & CEO of Binarize Technologies Pvt. Ltd.**, passionate about building **AI-powered products**, **automation systems**, and **scalable software** that solve real-world problems.
 
