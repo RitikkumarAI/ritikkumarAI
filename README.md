@@ -140,19 +140,22 @@
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 ## 🎯 Expertise Areas
-  <details open>
-<tr>
-<td>💻<strong>Developement environment</strong></td>
-<td>
 
-<img src="https://img.shields.io/badge/Visual_Studio_Code-00ffff?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-00ffff?style=for-the-badge&logo=git&logoColor=black" />
-<img src="https://img.shields.io/badge/GitHub-00ffff?style=for-the-badge&logo=github&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-00ffff?style=for-the-badge&logo=docker&logoColor=black" />
-<img src="https://images.prismic.io/oxylabs-web/Z_OZvuvxEdbNPBTc_n8nlogo.png?auto=format,compress" width="100" height="40"/>
-</td>
-</tr>
-</details>
+<details open>
+<table>
+<summary>💻 Development Environment</summary>
+<div align="center">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-00ffff?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
+    <img src="https://img.shields.io/badge/Git-00ffff?style=for-the-badge&logo=git&logoColor=black" />
+    <img src="https://img.shields.io/badge/GitHub-00ffff?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/Docker-00ffff?style=for-the-badge&logo=docker&logoColor=black" />
+    <img src="https://images.prismic.io/oxylabs-web/Z_0ZvuvxEdbNPBTc_n8nlogo.png?auto=format,compress" width="100" height="40"/>
 
+</div>
+
+
+<details open>
+<table>
   <tr>
     <td>💻 <strong>Frontend Development</strong></td>
     <td>
@@ -160,7 +163,8 @@
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
       <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
     </td> 
       </tr>
 
@@ -358,16 +362,16 @@
 
 ## ❤️ Let's get connected:
 <p>
-    <a href="https://x.com/ErritikK17813?t=5DUyhbd-Qv83mW5Xb9DECA&s=09" target="_blank">
+    <a href="https://x.com/ritikkumarAI?t=5DUyhbd-Qv83mW5Xb9DECA&s=09" target="_blank">
         <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="30px">
     </a>
-    <a href="https://www.linkedin.com/in/ritik-kumar-111677251/" target="_blank">
+    <a href="https://www.linkedin.com/in/ritikkumarAI/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px">
     </a>
     <a href="https://t.me/Ritikgoswamiai" target="_blank">
         <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30px">
     </a>
-    <a href="https://www.instagram.com/codewithritik19?igsh=MXUxeHJjNHF5Z3Mz" target="_blank">
+    <a href="https://www.instagram.com/iamritikk?igsh=MXUxeHJjNHF5Z3Mz" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30px">
     </a>
 </p>
